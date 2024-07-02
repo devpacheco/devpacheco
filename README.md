@@ -1,16 +1,17 @@
-## Hi there 👋
+##Olá Eu sou o Gabriel Pacheco 
 
-<!--
-**devpacheco/devpacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou Apredendo ReactJS e TypeScript.
 
-Here are some ideas to get you started:
+- 🔭 Estou procurando minha primeira oportunidade de emprego. Meu Sonho é trabalhar na área FullStack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+  <div style="flex-basis: 48%;">
+    <a><img align="center" alt="Numpy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a><img align="center" alt="Numpy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a><img align="center" alt="Numpy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+
