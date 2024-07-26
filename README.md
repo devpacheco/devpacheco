@@ -5,3 +5,37 @@
 
 - Sou de Lagoa do Carro / PE, Brasil
 ##
+
+#### Estou Apredendo Sobre:
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,jest,nextjs," />
+
+##
+
+#### Tenho Conhecimento em:
+
+[<img src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=tailwind"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=typescript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img src="https://skillicons.dev/icons?i=postgres"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=firebase"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/doc)
+[<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://docs.github.com/en/get-started)
+
+##
+
+#### Entre em Contato Comigo:
+
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-pacheco-87b4042a5/)
+<a href="mailto:pachecodev.contato@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://w.app/W3lL0U"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+##
+
+
+
