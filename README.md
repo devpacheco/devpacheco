@@ -8,7 +8,7 @@
 
 #### Estou Apredendo Sobre:
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,jest,nextjs," />
+<img src="https://skillicons.dev/icons?i=react,nodejs,jest,nextjs,library" />
 
 ##
 
