@@ -21,10 +21,10 @@
 [<img src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=typescript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [<img src="https://skillicons.dev/icons?i=jest"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[<img src="https://skillicons.dev/icons?i=testinglibrary"/>](https://avatars.githubusercontent.com/u/49996085?s=48&v=4)
-
+[<img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4"/>](testinglibrary)
+[<img src="https://mswjs.io/_astro/msw.d6PiRO0h.svg" width="50" height="50"  />](msw)
 
 [<img src="https://skillicons.dev/icons?i=postgres"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=firebase"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
