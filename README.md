@@ -8,7 +8,7 @@
 
 #### Estou Apredendo Sobre:
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,jest,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs" />
 
 ##
 
@@ -21,6 +21,7 @@
 [<img src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=typescript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=jest"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img src="https://skillicons.dev/icons?i=postgres"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=firebase"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
