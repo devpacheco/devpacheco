@@ -8,7 +8,7 @@
 
 #### Estou Apredendo Sobre:
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,electron,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,electron,php," />
 
 ##
 
@@ -29,6 +29,8 @@
 
 [<img src="https://skillicons.dev/icons?i=postgres"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=firebase"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=mongodb"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=prisma"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/doc)
 [<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://docs.github.com/en/get-started)
