@@ -8,7 +8,7 @@
 
 #### Estou Apredendo Sobre:
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,electron,php," />
+<img src="https://skillicons.dev/icons?i=nodejs,electron,php," />
 
 ##
 
@@ -22,18 +22,21 @@
 [<img src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=typescript"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=nextjs"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img src="https://skillicons.dev/icons?i=jest"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4"/>](testinglibrary)
-[<img src="https://mswjs.io/_astro/msw.d6PiRO0h.svg" width="50" height="50"  />](msw)
+[<img src="https://mswjs.io/_astro/msw.ChZQPzKa.svg" width="50" height="50"  />](msw)
 
 [<img src="https://skillicons.dev/icons?i=postgres"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=firebase"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=mongodb"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=prisma"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone github" src="https://cdn.cosmicjs.com/b67de7d0-c810-11ed-b01d-23d7b265c299-logo508x500.svg"/>](https://docs.github.com/en/get-started)
 
 [<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/doc)
 [<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://docs.github.com/en/get-started)
+
 
 ##
 
